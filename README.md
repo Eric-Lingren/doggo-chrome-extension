@@ -9,3 +9,4 @@ Great for when you get bored!
 
 
 ![image1](/screenshots/doggo-screenshot-1.png)
+![image2](/screenshots/doggo-screenshot-2.png)
